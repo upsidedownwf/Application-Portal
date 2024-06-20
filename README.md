@@ -22,7 +22,7 @@ There are two controllers to facilitate this;
     1. GetAllQuestions: This is a GET all method to retrieve all saved questions for a saved form.
     2. UpdateQuestion: This is a PUT method to edit a question for a saved form.
 3. **The Application Controller:**
-    1. GetApplications: This is a GET method to retrieve a saved application.
+    1. GetApplication: This is a GET method to retrieve a saved application.
     2. AddApplication: This is a POST method to save an application for a saved form.
 
 I have also attached some sample payload (in the samplepayload.js file for adding a new application form and submitting a new application for easy testing.
